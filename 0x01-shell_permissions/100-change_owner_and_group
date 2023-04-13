@@ -1,3 +1,3 @@
 #!/bin/bash
-Chown -hr vincent:staff .
+Chown vincent:staff .
 ~
